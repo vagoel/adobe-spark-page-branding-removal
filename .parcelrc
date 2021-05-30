@@ -1,0 +1,9 @@
+{
+	"parcel-plugin-css-to-string": {
+		"assetType": [
+			"cssx"
+		],
+		"minify": true,
+		"enableCSS": false
+	}
+}

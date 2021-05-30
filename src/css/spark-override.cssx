@@ -1,0 +1,7 @@
+div.spark-header.floater.above-the-fold,
+div.spark-header.floater,
+div.section.spark-header-section,
+.spark-bumper-section .footer,
+div.bumper-content {
+	display: none !important;
+}

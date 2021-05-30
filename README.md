@@ -24,19 +24,13 @@
 npm install
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Varun Goel**
 
-* Website: https://vagoel.com/
-* Github: [@vagoel](https://github.com/vagoel)
-* LinkedIn: [@goelvarun88](https://linkedin.com/in/goelvarun88)
+-   Website: https://vagoel.com/
+-   Github: [@vagoel](https://github.com/vagoel)
+-   LinkedIn: [@goelvarun88](https://linkedin.com/in/goelvarun88)
 
 ## 🤝 Contributing
 
@@ -51,5 +45,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2021 [Varun Goel](https://github.com/vagoel).<br />
 This project is [ISC](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

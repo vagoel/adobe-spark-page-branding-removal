@@ -1,0 +1,32 @@
+{
+	"name": "adobe-spark-page-branding-removal",
+	"version": "1.0.0",
+	"description": "This repository allows you to remove the Adobe branding in any Spark Page free of cost.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vagoel/adobe-spark-page-branding-removal.git"
+	},
+	"keywords": [
+		"adobe",
+		"spark",
+		"page",
+		"unbranding"
+	],
+	"author": "Varun Goel",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vagoel/adobe-spark-page-branding-removal/issues"
+	},
+	"homepage": "https://github.com/vagoel/adobe-spark-page-branding-removal#readme",
+	"devDependencies": {
+		"parcel-bundler": "^1.12.5",
+		"parcel-plugin-css-to-string": "^2.5.2",
+		"prettier": "2.3.0"
+	}
+}
