@@ -14,15 +14,20 @@
 
 > This repository allows you to remove the Adobe branding in any Spark Page free of cost.
 
-### 🏠 [Homepage](https://github.com/vagoel/adobe-spark-page-branding-removal#readme)
 
 ### ✨ [Demo](https://adobe-spark-page-branding-removal.vagoel.com)
 
-## Install
+## How To Run
 
-```sh
-npm install
+1. Fork and Clone this repo
+2. Do `npm install`
+3. Edit the **.env** file and replace ADOBE_SPARK_PAGE_URL with your URL
 ```
+ADOBE_SPARK_PAGE_URL="REPLACE_THIS_TEXT_WITH_ADOBE_PAGE_URL"
+
+```
+4. Run `npm run start`
+5. Open http://localhost:1234/ in your browser.Your configured page will be loaded with Adobe branding removed. :tada:
 
 ## Author
 
@@ -34,7 +39,7 @@ npm install
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/vagoel/adobe-spark-page-branding-removal/issues). You can also take a look at the [contributing guide](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/vagoel/adobe-spark-page-branding-removal/issues). 
 
 ## Show your support
 
