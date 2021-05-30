@@ -12,7 +12,8 @@
   </a>
 </p>
 
-> This repository allows you to remove the Adobe branding in any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
+> This utility allows you to remove the Adobe branding in any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
+> 
 
 ### DEMO
 [Before](https://adobe-spark-page-branding-removal.vagoel.com) | ✨ [After](https://adobe-spark-page-branding-removal.vagoel.com)
@@ -23,7 +24,7 @@
 
 1. Fork and Clone this repo
 2. Do `npm install`
-3. Edit the **.env** file and replace ADOBE_SPARK_PAGE_URL with your URL
+3. Edit the **.env** file and update ADOBE_SPARK_PAGE_URL value with your URL
 ```
 ADOBE_SPARK_PAGE_URL="REPLACE_THIS_TEXT_WITH_ADOBE_PAGE_URL"
 
