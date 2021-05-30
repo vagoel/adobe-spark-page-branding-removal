@@ -12,12 +12,14 @@
   </a>
 </p>
 
-> This repository allows you to remove the Adobe branding in any Spark Page free of cost.
+> This repository allows you to remove the Adobe branding in any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
 
+### DEMO
+[Before](https://adobe-spark-page-branding-removal.vagoel.com) | ✨ [After](https://adobe-spark-page-branding-removal.vagoel.com)
+------------ | -------------
+![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/before.gif) | ![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/after.gif)
 
-### ✨ [Demo](https://adobe-spark-page-branding-removal.vagoel.com)
-
-## How To Run
+## Steps
 
 1. Fork and Clone this repo
 2. Do `npm install`
