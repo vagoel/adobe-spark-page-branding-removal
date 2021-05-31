@@ -12,13 +12,13 @@
   </a>
 </p>
 
-> This utility allows you to remove the Adobe branding in any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
+> This utility allows you to remove the Adobe branding from any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
 > 
 
 ### DEMO
-[Before](https://adobe-spark-page-branding-removal.vagoel.com) | ✨ [After](https://www.adobe-spark-page-branding-removal.vagoel.com)
+[Before](https://spark.adobe.com/page/Hpt55/) | ✨ [After](https://www.adobe-spark-page-branding-removal.vagoel.com)
 ------------ | -------------
-![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/before.gif) | ![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/after.gif)
+![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/before.gif) | ![Page not showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/after.gif)
 
 ## Steps
 
