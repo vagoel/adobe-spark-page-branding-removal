@@ -16,7 +16,7 @@
 > 
 
 ### DEMO
-[Before](https://adobe-spark-page-branding-removal.vagoel.com) | ✨ [After](https://adobe-spark-page-branding-removal.vagoel.com)
+[Before](https://adobe-spark-page-branding-removal.vagoel.com) | ✨ [After](https://www.adobe-spark-page-branding-removal.vagoel.com)
 ------------ | -------------
 ![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/before.gif) | ![Page showing Adobe Branding](https://github.com/vagoel/adobe-spark-page-branding-removal/blob/develop/src/images/gifs/after.gif)
 
