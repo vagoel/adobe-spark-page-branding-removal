@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> This utility allows you to remove the Adobe branding in any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
+> This utility allows you to remove the Adobe branding from any [Spark Page](https://www.adobe.com/express/create/website-page) free of cost.
 > 
 
 ### DEMO
